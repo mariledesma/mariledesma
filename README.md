@@ -10,7 +10,7 @@ I'm passionate about building efficient backend solutions, working with automati
 - 🎓 **Education:** 
   - **M.S. in Computer Science** | Middle Tennessee State University (In Progress)
   - **B.S. in History, Minor in Analytical Chemistry** | MTSU (Graduated Top 10%)
-- 💼 **Current Role:** AI and Innovation Intern at **Wellpath**, building solutions using Microsoft Copilot and Power Automate.
+- 💼 **Previous Role:** AI and Innovation Intern at **Wellpath**, building solutions using Microsoft Copilot and Power Automate.
 - 🗣️ **Languages:** Bilingual in English and Spanish.
 
 ---
