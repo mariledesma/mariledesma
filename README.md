@@ -25,15 +25,6 @@ I'm passionate about building efficient backend solutions, working with automati
 
 ---
 
-### 💻 Academic & Personal Projects
-
-*   **Text File Compressor (Huffman Coding)** 
-    *   *What it is:* A lossless data compression tool engineered in C++ using a Binary Tree and Priority Queue to generate prefix codes based on character frequency.
-    *   *Tech Stack:* C++, STL, File I/O.
-*   **Linear Equation Solver (Gauss-Jordan Elimination)** 
-    *   *What it is:* A matrix manipulation tool built to perform row reduction operations, handling floating-point arithmetic and variable system sizes.
-    *   *Tech Stack:* C++.
-
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/maria-vargas-8521b1245)
 - 📧 mafer5370@gmail.com
